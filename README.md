@@ -41,3 +41,5 @@ Aplique o plano para realizar a implantação dos recursos na AWS:
 ```terraform
 terraform apply
 ```
+
+![alt text](image.png)
